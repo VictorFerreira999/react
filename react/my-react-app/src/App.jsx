@@ -3,7 +3,7 @@ import Titulo from "./Titulo"
 function App() {
   return (
     <div>
-      <Titulo/>
+      <Titulo nome = "Dimitri" paragrafo = {true}/>
       <Titulo/>
       <Titulo/>
       <Titulo/>
